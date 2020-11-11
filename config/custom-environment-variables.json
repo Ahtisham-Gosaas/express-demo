@@ -1,0 +1,6 @@
+// A file that provides mapping of environment variables with variables defined in application
+{
+  "mail": {
+    "password": "app_password"
+  }
+}
